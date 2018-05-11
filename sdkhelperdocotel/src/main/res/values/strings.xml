@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SDK Helper</string>
+    <string name="default_font" translatable="false">fonts/open_sans_regular.ttf</string>
+    <string name="light_font" translatable="false">fonts/open_sans_light.ttf</string>
+</resources>
