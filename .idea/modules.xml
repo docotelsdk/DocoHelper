@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DocotelHelper.iml" filepath="$PROJECT_DIR$/DocotelHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DocoHelper.iml" filepath="$PROJECT_DIR$/DocoHelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/sdkhelperdocotel/sdkhelperdocotel.iml" filepath="$PROJECT_DIR$/sdkhelperdocotel/sdkhelperdocotel.iml" />
     </modules>
